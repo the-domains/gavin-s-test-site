@@ -1,7 +1,7 @@
 name: "Gavin's test site"
 favicon: null
 layout_spectrum: 0.08216969
-typography_spectrum: 0.8952738
+typography_spectrum: 0.83441
 collections:
   - index:
       path: /
