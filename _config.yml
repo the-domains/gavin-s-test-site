@@ -1,14 +1,7 @@
-color:
-  saturation: 0.8759398
-  brandStrength: 1
-  rhythmicContrast: 0.7175972
-  brandColors:
-    - '#D8CEBD'
-    - '#28150E'
-    - '#A4763A'
-    - '#D8BB87'
-    - '#546D65'
-  lightness: 0.5891514
+name: "Gavin's test site"
+favicon: null
+layout_spectrum: 0.08216969
+typography_spectrum: 0.8952738
 collections:
   - index:
       path: /
@@ -21,6 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.08216969
-typography_spectrum: 0.8952738
-name: "Gavin's test site"
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#D8CEBD'
+    - '#28150E'
+    - '#A4763A'
+    - '#D8BB87'
+    - '#546D65'
+  brandStrength: 1
+  lightness: 0.5891514
+  saturation: 0.8759398
+  rhythmicContrast: 0.7175972
+purpose: []
