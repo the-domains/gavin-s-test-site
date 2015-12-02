@@ -1,14 +1,26 @@
-layout_spectrum: 0.08216969
 color:
   saturation: 0.8759398
   brandStrength: 1
-  lightness: 0.5891514
+  rhythmicContrast: 0.7175972
   brandColors:
     - '#D8CEBD'
     - '#28150E'
     - '#A4763A'
     - '#D8BB87'
     - '#546D65'
-  rhythmicContrast: 0.7175972
+  lightness: 0.5891514
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.08216969
 typography_spectrum: 0.8952738
 name: "Gavin's test site"
